@@ -30,7 +30,7 @@ simulator_template/
 └── time.csv
 ```
 
-# File
+## File
 - main.c  
 template C code
 - simulation_result.pdf  
@@ -38,7 +38,7 @@ Verification data for fault simulator implementation
 - time.csv  
 Execution time of the implemented fault simulator
 
-## benchmark files
+## Benchmark files
 - iscas85, iscas89_cs
     - Faultset  
     Fault information
