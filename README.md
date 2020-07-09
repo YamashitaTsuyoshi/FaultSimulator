@@ -2,8 +2,7 @@
 This repository is a template for creating a fault simulator.
 
 # Usage
-1. Join GitHub organization (@ehimetakahashilab)
-2. Create a repository for implementing your own fault simulator. At this time, select this repository (ehimetakahashilab/simulator_template) as the repository template.
+1. Create a repository for your fault simulator implementation from this template repository.
 
 Then feel free to develop!  
 For example, you could split the C code, add a Makefile, or implement it in C++ or Rust.
